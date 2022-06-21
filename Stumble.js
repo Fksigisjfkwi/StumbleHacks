@@ -26,7 +26,7 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
     console.log(`
 ＳＴＵＭＢＬＥ   ＨＡＣＫ V2
 
-By : ${chalk.blue('@ArjunaGimank')}  ${chalk.blue('')}
+By : ${chalk.blue('@AditGblk')}  ${chalk.blue('')}
 `);
 
     const auth = rs.question('[+] Auth Token : ');
